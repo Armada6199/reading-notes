@@ -15,4 +15,9 @@
 > 1- building Apis  which handle alot of requests based on a I/O like adding or removing from a database
 > 2-real time applications such as messaging or codeshare which is a event driven application  and will be suited for node .
 > 3-you can build cross platfroms apps .
->
+
+
+
+## Things I want to know more about
+
+##### I'm intrested in building discord bots,and I want to lean how can i make my own helping automation scripts with node 

@@ -47,3 +47,7 @@
 
 ## Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 >** Github helps with the intergration phase allowing you to integrate mulitple branches and features together and merging them into one master branch which will include all the work from all the emplyees.
+
+## Things I want to know more about
+> i want to put my knowledge into real life examples to understand CD/CI/TDD better cause its not clear yet .
+> 

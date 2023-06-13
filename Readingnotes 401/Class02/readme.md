@@ -40,9 +40,8 @@
 
 ### Reflection
 
->i tried to use express router before in my prep-project but it didn't work like i wanted ,database operations wern't working and i needed to connect to database on each route ,i want to learn how i can avoide that issue 
+>i tried to use express router before in my prep-project but it didn't work like i wanted ,database operations wern't working and i needed to connect to database on each route ,i want to learn how i can avoide that issue
 
 ## Things I want to know more about
 
 ### using router with sql and no sql
-

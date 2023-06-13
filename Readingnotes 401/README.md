@@ -5,9 +5,9 @@
 ## Table of content
 | class  | readme link  |   |   |   |
 |---|---|---|---|---|
-| prep  | https://github.com/Armada6199/reading-notes/blob/main/prep-work/read.md  |   |   |   |
-|  01 |  https://github.com/Armada6199/reading-notes/blob/main/class01/Node%20EcosystemReadme.md |   |   |   |
-|  02  |  https://github.com/Armada6199/reading-notes/tree/main/Class02 |   |   |   |
+| express&CI/CD&NPM&TDD | https://github.com/Armada6199/reading-notes/blob/main/prep-work/read.md  |   |   |   |
+|  Node eco system |  https://github.com/Armada6199/reading-notes/blob/main/class01/Node%20EcosystemReadme.md |   |   |   |
+|  classes,express routing,express router  |  https://github.com/Armada6199/reading-notes/tree/main/Class02 |   |   |   |
 |  datastructure |  [https://github.com/Armada6199/reading-notes/tree/main/Class02](https://github.com/Armada6199/data-structures-and-algorithms/blob/main/javascript/reverseArray/reverseArrayReadme.md) |   |   |   |
 
 

@@ -29,4 +29,23 @@ Disconnection Handling: Implement disconnection handling with io.on('disconnect'
 
 socket.emit() sends events from the client to the server or from the server to a specific client. It enables bidirectional event-based communication.
 
-On the client side, it sends a specific event with optional data to the server. On the server side, it targets specific clients by referencing their socket ID to send custom events or data.
+On the client side, it sends a specific event with optional data to the server. On the server side, it targets specific clients by referencing their socket ID to send custom events or data
+
+## WebSocket vs. Socket.IO
+
+### WebSocket and Socket.IO are communication protocols for real-time, bidirectional data exchange. Here are the key differences:
+
+WebSocket: Standardized protocol for direct, low-level communication between client and server over a single TCP connection.
+
+### Socket.IO: Library built on WebSocket, offering additional features like multiple transports, automatic reconnection, and room-based messaging.
+
+### Socket.IO is ideal when
+
+Real-time, bidirectional communication is needed.
+Support for multiple transports is required.
+Automatic reconnection and advanced messaging capabilities are desired.
+WebSocket is a good choice when:
+
+Direct access to the browser-native WebSocket API is preferred.
+Lightweight, efficient communication is important.
+Integration with existing WebSocket-based systems is necessary.
